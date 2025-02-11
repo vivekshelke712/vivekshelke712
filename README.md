@@ -30,7 +30,6 @@ I am Vivek Shelke, a passionate Full Stack Developer based in Pune, dedicated to
 
 
 
-<a href="http://www.github.com/vivekshelke712"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekshelke712&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/vivekshelke712"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=vivekshelke712&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
